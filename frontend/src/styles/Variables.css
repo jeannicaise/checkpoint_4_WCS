@@ -1,0 +1,6 @@
+:root {
+  --imageBorderRadius: 8px;
+  --discoverColumnPadding: 30px;
+  --numberOfDiscoverColumns: 4;
+  --maxPrimaryPageWidth: 1400px;
+}
